@@ -6,8 +6,11 @@ into any papers or articles we may write in the future, please add a bibtex entr
 
 
 ### List of interesting papers: 
+
 [cheri.md](cheri.md ':include')
+
 [memory-allocator.md](memory-allocator.md ':include')
+
 [superoptimization.md](superoptimization.md ':include')
 
 ### Reading Group Agenda
