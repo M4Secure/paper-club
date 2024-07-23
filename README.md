@@ -6,7 +6,9 @@ into any papers or articles we may write in the future, please add a bibtex entr
 
 
 ### List of interesting papers: 
-
+{{cheri.md}}
+{{memory-allocator.md}}
+{{superoptimization.md}}
 
 ### Reading Group Agenda
-
+{{agenda.md}}
