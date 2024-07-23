@@ -20,9 +20,5 @@ Con McGarvey, Bohus Ondrusek, Sriram K. Rajamani, and Abdullah Ustuner
   *doi*: [10.1145/1218063.1217943](https://doi.org/10.1145/1218063.1217943)
 
 
-### Reading Group Session
+### Reading Group Agenda
 
-| **Paper** | **Time** | **Speaker** | **Affiliation** |
-| ---------- | ----------- | -------- |  -------- |  
-| ??      | ??   | ??    |  ??    |
-| ??      | ??   | ??   | ??    |
