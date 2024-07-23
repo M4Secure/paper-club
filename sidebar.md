@@ -1,8 +1,8 @@
 - Paper List
-  - [CHERI](cheri.md "episode for cheri") 
-  - [Memory Allocator](memory-allocator.md "episode for memory allocator")
-  - [Superoptimization](superoptimization.md "episode for superoptimization")
+  - [CHERI](cheri "episode for cheri") 
+  - [Memory Allocator](memory-allocator "episode for memory allocator")
+  - [Superoptimization](superoptimization "episode for superoptimization")
   
-- [Back to NoteBook]()
+- [Back to NoteBook](https://m4secure.github.io/paper-club)
 
-@copyright to M4Secure Team
+M4Secure@copyright
