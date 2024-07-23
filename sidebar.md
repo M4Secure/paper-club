@@ -1,6 +1,8 @@
 - Paper List
-  - [Memory Allocator](./memory-allocator.md "episode for memory allocator")
-  - [Superoptimization](./superoptimization.md "episode for superoptimization")
-  - [CHERI](./cheri.md "episode for cheri") 
+  - [CHERI](cheri.md "episode for cheri") 
+  - [Memory Allocator](memory-allocator.md "episode for memory allocator")
+  - [Superoptimization](superoptimization.md "episode for superoptimization")
+  
+- [Back to NoteBook]()
 
-- [Back to NoteBook](./)
+@copyright to M4Secure Team
