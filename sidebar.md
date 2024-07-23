@@ -4,5 +4,5 @@
   * [Superoptimization](superoptimization.html)
 * **Seminar Calender**
   * [Agenda](agenda.html)
-* [<<Back to Main](https://m4secure.github.io/paper-club)
+* [<<Back to Main](/)
 * [>>About us](about.html)
