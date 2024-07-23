@@ -20,5 +20,9 @@ Con McGarvey, Bohus Ondrusek, Sriram K. Rajamani, and Abdullah Ustuner
   *doi*: [10.1145/1218063.1217943](https://doi.org/10.1145/1218063.1217943)
 
 
-### Completed reading group sessions 
-We have not yet started the reading group. Hence this list is currently empty. 
+### Reading Group Session
+
+| **Paper** | **Time** | **Speaker** | **Affiliation** |
+| ---------- | ----------- | -------- |  -------- |  
+| ??      | ??   | ??    |  ??    |
+| ??      | ??   | ??   | ??    |
