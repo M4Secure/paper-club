@@ -1,4 +1,4 @@
-### Memory Allocator
+#### Memory Allocator
 
 1. **automemcpy: a framework for automatic generation of fundamental memory operations**  
    Guillaume Chatelet, Chris Kennelly, Sam (Likun) Xi, Ondrej Sykora, Clement Courbet, Xinliang David Li and Bruno De Backer

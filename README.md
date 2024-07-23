@@ -5,7 +5,7 @@ into any papers or articles we may write in the future, please add a bibtex entr
 [bibtex file](reference.bib). 
 
 
-### List of interesting papers: 
+## List of interesting papers: 
 
 [cheri.md](cheri.md ':include')
 
@@ -13,5 +13,6 @@ into any papers or articles we may write in the future, please add a bibtex entr
 
 [superoptimization.md](superoptimization.md ':include')
 
-### Reading Group Agenda
+## Reading Group Agenda
+
 [agenda.md ](agenda.md ':include')
