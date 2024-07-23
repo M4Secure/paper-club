@@ -6,9 +6,9 @@ into any papers or articles we may write in the future, please add a bibtex entr
 
 
 ### List of interesting papers: 
-[filename](cheri.md ':include')
-[filename](memory-allocator.md ':include')
-[filename](superoptimization.md ':include')
+[cheri.md](cheri.md ':include')
+[memory-allocator.md](memory-allocator.md ':include')
+[superoptimization.md](superoptimization.md ':include')
 
 ### Reading Group Agenda
-[filename](agenda.md ':include')
+[agenda.md ](agenda.md ':include')

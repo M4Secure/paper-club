@@ -1,4 +1,4 @@
-## Superoptimization
+### Superoptimization
 
 1. **Z3: An Efficient SMT Solver**  
    David Hutchison, et al.
