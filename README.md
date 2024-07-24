@@ -13,6 +13,8 @@ into any papers or articles we may write in the future, please add a bibtex entr
 
 [superoptimization.md](superoptimization.md ':include')
 
+[verification.md](verification.md ':include')
+
 ## Reading Group Agenda
 
 [agenda.md ](agenda.md ':include')
