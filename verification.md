@@ -12,4 +12,10 @@
 
 4. **Spin Beginners Tutorial**
    Theo C. Ruys, *url* [link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A291762&dswid=-9226)
+
+5. **A Formal CHERI-C Semantics for Verification**  
+   Seung Hoon Park, Rekha Pai and Tom Melham, *doi*: [10.1007/978-3-031-30823-9_28](https://link.springer.com/chapter/10.1007/978-3-031-30823-9_28#Abs1)
+
+6. **Verified sequential Malloc/Free**  
+   Andrew W. Appel and David A. Naumann, *doi*: [10.1145/3381898.3397211](https://doi.org/10.1145/3381898.3397211)
    
