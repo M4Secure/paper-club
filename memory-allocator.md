@@ -8,6 +8,3 @@
 
 3. **Thorough Static Analysis of Device Drivers**
    Thomas Ball, Ella Bounimova, Byron Cook, Vladimir Levin, Jakob Lichtenberg, Con McGarvey, Bohus Ondrusek, Sriram K. Rajamani, and Abdullah Ustuner *doi*: [10.1145/1218063.1217943](https://doi.org/10.1145/1218063.1217943)
-
-4. **Verified sequential Malloc/Free**
-   Andrew W. Appel, David A. NaumannAuthors Info & Claims *doi*: [10.1145/3381898.3397211](https://doi.org/10.1145/3381898.3397211)
